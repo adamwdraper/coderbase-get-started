@@ -1,0 +1,21 @@
+# The permalink (url) for your project is based
+# upon the folder name.
+# These default to the name of the Github 
+# repository it came from, but you can create new projects
+# by adding a folder with a _config.yml and various posts in markdown (*.md)
+
+title: appular
+description: A modular JavaScript organizational schema based on Backbone and RequireJs
+homepage: 
+languages: [javascript]
+visible: true
+
+# 'Visible: false' means it will remain in your repository,
+# but will not be visible on your profile. However, if the posts within this project
+# are not set to draft, they will still show up. We are simply leaving this up to you.
+
+# If you want to delete a project that you are never going to make visible,
+# just delete the folder and files inside of it, but note:
+# 1. This cannot be undone. You can always add the folder back in,
+# or revert the commit, but we will never generate it again for you.
+# 2. This will not touch the original project on Github in any way.
