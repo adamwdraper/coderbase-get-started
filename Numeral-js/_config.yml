@@ -4,7 +4,7 @@
 # repository it came from, but you can create new projects
 # by adding a folder with a _config.yml and various posts in markdown (*.md)
 
-title: Numeral-js
+title: Numeral.js
 description: A javascript library for formatting and manipulating numbers.
 homepage: http://numeraljs.com
 languages: [javascript]
