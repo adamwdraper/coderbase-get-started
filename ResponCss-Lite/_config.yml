@@ -7,8 +7,8 @@
 title: ResponCss-Lite
 description: 
 homepage: 
-languages: [javascript]
-visible: true
+languages: [scss, css]
+visible: false
 
 # 'Visible: false' means it will remain in your repository,
 # but will not be visible on your profile. However, if the posts within this project
