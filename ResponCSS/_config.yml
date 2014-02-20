@@ -7,7 +7,7 @@
 title: ResponCSS
 description: A fluid, responsive CSS layout framework to help free your web apps from the tyranny of pixel "perfection".
 homepage: http://responcss.com/
-languages: [javascript]
+languages: [scss, css]
 visible: true
 
 # 'Visible: false' means it will remain in your repository,
