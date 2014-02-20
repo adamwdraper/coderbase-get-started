@@ -7,7 +7,7 @@
 title: appular
 description: A modular JavaScript organizational schema based on Backbone and RequireJs
 homepage: 
-languages: [javascript]
+languages: [javascript, backbone.js, require.js]
 visible: true
 
 # 'Visible: false' means it will remain in your repository,

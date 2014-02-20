@@ -7,7 +7,7 @@
 title: nodejs-images-to-pdf
 description: Creates a pdf that includes all images in a directory
 homepage: 
-languages: [javascript]
+languages: [javascript, node.js]
 visible: true
 
 # 'Visible: false' means it will remain in your repository,

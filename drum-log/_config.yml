@@ -8,7 +8,7 @@ title: drum-log
 description: Just used as an issue tracker for drumlog.com
 homepage: http://www.drumlog.com
 languages: []
-visible: true
+visible: false
 
 # 'Visible: false' means it will remain in your repository,
 # but will not be visible on your profile. However, if the posts within this project

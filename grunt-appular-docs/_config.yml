@@ -7,7 +7,7 @@
 title: grunt-appular-docs
 description: Generate documentation for Appular projects with source comments
 homepage: 
-languages: [javascript]
+languages: [javascript, grunt]
 visible: true
 
 # 'Visible: false' means it will remain in your repository,

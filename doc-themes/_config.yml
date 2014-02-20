@@ -7,7 +7,7 @@
 title: doc-themes
 description: A responsive boilerplate for documentation sites
 homepage: 
-languages: [javascript]
+languages: [html, scss, css]
 visible: true
 
 # 'Visible: false' means it will remain in your repository,

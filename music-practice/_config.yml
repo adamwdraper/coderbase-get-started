@@ -8,7 +8,7 @@ title: music-practice
 description: 
 homepage: http://adamwdraper.github.com/music-practice/
 languages: [javascript]
-visible: true
+visible: false
 
 # 'Visible: false' means it will remain in your repository,
 # but will not be visible on your profile. However, if the posts within this project

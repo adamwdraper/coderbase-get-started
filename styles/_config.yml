@@ -7,7 +7,7 @@
 title: styles
 description: Styles Framework built with SASS
 homepage: http://adamwdraper.github.com/styles/
-languages: []
+languages: [scss, css]
 visible: true
 
 # 'Visible: false' means it will remain in your repository,

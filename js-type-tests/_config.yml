@@ -7,7 +7,7 @@
 title: js-type-tests
 description: Simple page to test a few things about types like truthiness and length
 homepage: http://adamwdraper.github.com/js-type-tests/
-languages: []
+languages: [javascript]
 visible: true
 
 # 'Visible: false' means it will remain in your repository,

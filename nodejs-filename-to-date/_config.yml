@@ -7,7 +7,7 @@
 title: nodejs-filename-to-date
 description: Renames all photos in a given directory to the date they were taken
 homepage: 
-languages: [javascript]
+languages: [javascript, node.js]
 visible: true
 
 # 'Visible: false' means it will remain in your repository,

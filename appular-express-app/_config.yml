@@ -7,7 +7,7 @@
 title: appular-express-app
 description: An ExpressJS app to serve appular js projects
 homepage: 
-languages: [javascript]
+languages: [javascript, node.js, backbone.js, require.js, scss, css]
 visible: true
 
 # 'Visible: false' means it will remain in your repository,
