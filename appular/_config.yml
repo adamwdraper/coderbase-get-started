@@ -4,7 +4,7 @@
 # repository it came from, but you can create new projects
 # by adding a folder with a _config.yml and various posts in markdown (*.md)
 
-title: appular
+title: Appular
 description: A modular JavaScript organizational schema based on Backbone and RequireJs
 homepage: 
 languages: [javascript, backbone.js, require.js]
