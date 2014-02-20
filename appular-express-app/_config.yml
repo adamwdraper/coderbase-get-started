@@ -4,7 +4,7 @@
 # repository it came from, but you can create new projects
 # by adding a folder with a _config.yml and various posts in markdown (*.md)
 
-title: appular-express-app
+title: Appular-express-app
 description: An ExpressJS app to serve appular js projects
 homepage: 
 languages: [javascript, node.js, backbone.js, require.js, scss, css]
