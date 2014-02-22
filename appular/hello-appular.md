@@ -1,5 +1,5 @@
 ---
-title: Hello, Appular this is a Post with a Long Title
+title: Hello, Appular this is a Post with a Long Title to Test
 languages: []
 draft: true
 summary: A brief introduction to my appular project
