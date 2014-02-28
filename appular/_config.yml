@@ -9,6 +9,7 @@ description: A modular JavaScript organizational schema based on Backbone and Re
 homepage: 
 languages: [javascript, backbone.js, require.js]
 visible: true
+order: 2
 
 # 'Visible: false' means it will remain in your repository,
 # but will not be visible on your profile. However, if the posts within this project
