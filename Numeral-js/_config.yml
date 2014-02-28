@@ -9,6 +9,7 @@ description: A javascript library for formatting and manipulating numbers.
 homepage: http://numeraljs.com
 languages: [javascript]
 visible: true
+order: 1
 
 # 'Visible: false' means it will remain in your repository,
 # but will not be visible on your profile. However, if the posts within this project
