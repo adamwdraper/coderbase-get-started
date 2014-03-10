@@ -1,6 +1,8 @@
 ---
 title: Hello, Adam
-languages: []
+languages: [
+javascript,html,css,scss
+]
 summary: A brief introduction of me.
 draft: false 
 ---
